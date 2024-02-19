@@ -1,0 +1,21 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid b4e4de48-cf61-463a-be1d-cd3d3b8dd437)
+
+  (paper "USLetter")
+
+  (title_block
+    (title "GardenMon Interface Board")
+    (date "2024-02-18")
+    (rev "0")
+    (company "Anthony Needles")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
